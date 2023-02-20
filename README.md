@@ -29,15 +29,3 @@ Since the interactions is in a forked blockchain, state changes are not reflecti
 * function addLiquidityETH()
 * function removeLiquidity()
 
-
-
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
